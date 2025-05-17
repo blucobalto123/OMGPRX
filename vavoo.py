@@ -3,13 +3,13 @@ import json
 import re
 import os
 
-LINKMFP = "https://tuonome.hf.space"
-PASSWORD = "tuapassword"
+LINKMFP = "https://poppy89-omgpoppy.hf.space"
+PASSWORD = "123"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
-USR = "TUO_USER_GITHUB"
-REPO = "TUO_BRANCH_GITHUB"
+USR = "blucobalto123"
+REPO = "OMGPRX"
 
 OUTPUT_FILE = "channels_italy.m3u8"
 BASE_URL = "https://vavoo.to"
